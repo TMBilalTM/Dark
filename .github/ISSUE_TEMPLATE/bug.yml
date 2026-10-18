@@ -1,0 +1,32 @@
+name: Report a bug
+description: Tell us about a reproducible problem with Dark.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "For setup or account help, join https://discord.gg/sQH6t2Ct9f. Issues are public; remove personal information from screenshots."
+  - type: input
+    id: module
+    attributes:
+      label: Module or command
+      placeholder: Giveaways, tickets, music...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What did you do before the issue happened?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: input
+    id: error
+    attributes:
+      label: Error code, if shown
+      placeholder: ERR-XXXXXX
