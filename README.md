@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="./assets/dark-panda.png" width="104" alt="Dark's crowned panda mascot" />
-
-<br />
-
-<img src="./assets/hero.svg" width="1000" alt="Dark — Your server. More alive. Giveaways, moderation and community tools." />
+<img src="./assets/dark-royal-hero.png" width="1000" alt="Dark — Your community, upgraded. Giveaways, moderation, music and more." />
 
 <br /><br />
 
-<a href="https://discord.com/api/oauth2/authorize?client_id=1012459997042593802&amp;permissions=8&amp;scope=bot+applications.commands&amp;redirect_uri=https%3A%2F%2Fdarks.app%2Fdashboard2&amp;response_type=code"><img src="./assets/invite.svg" width="218" alt="Add Dark to Discord" /></a>
+<a href="https://discord.com/api/oauth2/authorize?client_id=1012459997042593802&amp;permissions=8&amp;scope=bot+applications.commands&amp;redirect_uri=https%3A%2F%2Fdarks.app%2Fdashboard2&amp;response_type=code"><img src="./assets/invite-royal.svg" width="218" alt="Add Dark to Discord" /></a>
 &nbsp;
-<a href="https://darks.app/en/dashboard2"><img src="./assets/dashboard.svg" width="218" alt="Open the Dark dashboard" /></a>
+<a href="https://darks.app/en/dashboard2"><img src="./assets/dashboard-royal.svg" width="218" alt="Open the Dark dashboard" /></a>
 &nbsp;
-<a href="https://discord.gg/sQH6t2Ct9f"><img src="./assets/support.svg" width="218" alt="Join the Dark support server" /></a>
+<a href="https://discord.gg/sQH6t2Ct9f"><img src="./assets/support-royal.svg" width="218" alt="Join the Dark support server" /></a>
 
 <br /><br />
 
@@ -22,21 +18,23 @@
 
 <br />
 
-### A better place to hang out.
+<p align="center"><img src="./assets/royal-divider.svg" width="1000" alt="" /></p>
+
+### Built for your community.
 
 Dark brings giveaways, moderation, support, music, and member progression into one Discord bot. Set up the routines once, manage them from your browser, and spend more time with your community.
 
 <p align="center">
-  <img src="./assets/features.svg" width="1000" alt="Conditional giveaways, moderation and guard, support tickets, levels and economy, music, and automations" />
+  <img src="./assets/community-royal.svg" width="1000" alt="Conditional giveaways, moderation and guard, support tickets, levels and economy, music, and automations" />
 </p>
 
-### Your rules. Their next favorite event.
+### Run events your way.
 
 Create giveaways with role, membership, activity, or voice requirements. Let Dark check eligibility, choose winners, and handle supported reward deliveries. Your events stay organized as your community grows.
 
 [Explore giveaways](https://darks.app/en/explore/giveaways) · [See all features](./docs/features.md)
 
-### From invite to your first event.
+### Make yourself at home.
 
 1. **[Add Dark to your server](https://discord.com/api/oauth2/authorize?client_id=1012459997042593802&permissions=8&scope=bot+applications.commands&redirect_uri=https%3A%2F%2Fdarks.app%2Fdashboard2&response_type=code).** Select a server you can manage and review Discord's permission request.
 2. **[Open your dashboard](https://darks.app/en/dashboard2).** Sign in with Discord and choose your server.
